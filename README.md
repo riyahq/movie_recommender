@@ -12,7 +12,7 @@ A web-based application that recommends similar movies based on the selected tit
 
 ## 📸 Screenshot
 
-![Movie Recommender Screenshot](![Screenshot_25-6-2025_121150_](https://github.com/user-attachments/assets/ebd41ae5-b6c0-4a1f-9ed0-8fc9b5a4bee9)
+![Movie Recommender Screenshot](https://github.com/riyahq/movie_recommender/blob/main/Screenshot_25-6-2025_121150_.jpeg)
 )
 
 ---
